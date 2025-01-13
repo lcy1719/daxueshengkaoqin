@@ -12,7 +12,8 @@
 ③：开发环境：IDEA、JDK1.8、Maven、Mysql、
 ④：技术栈：Spring + SpringMVC +  mybatis +  Vue+axios+javascript+css+echart**
 
-![705a019f91497eaa963da16867edfda](https://github.com/user-attachments/assets/86be839b-2573-4acb-9d22-cddf0bc44a38)
+![56627f3ce23225d91a617543f03f8c3](https://github.com/user-attachments/assets/489a0027-be00-42c4-bbb1-253ed65ad448)
+
 ![705a019f91497eaa963da16867edfda](https://github.com/user-attachments/assets/7fe5de77-fc07-4f97-9df6-2edc46b7096f)
 ![49cc83d89ca28ba59b87392923f4fc5](https://github.com/user-attachments/assets/2a6dc2f9-b21b-42a2-aa1a-aff12913678b)
 ![b27ecbc0e205b3f580b64f3c49e310b](https://github.com/user-attachments/assets/9547cb53-7e05-466d-b41a-4f53c5c6e412)
